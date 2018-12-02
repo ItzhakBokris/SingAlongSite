@@ -1,0 +1,16 @@
+.download-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding-top: 80px; }
+  .download-container .title {
+    color: gray; }
+  .download-container .buttons-container {
+    display: flex;
+    flex-direction: column; }
+    .download-container .buttons-container .button img {
+      margin: 10px 0;
+      height: 60px; }
+
+/*# sourceMappingURL=main.component.css.map */

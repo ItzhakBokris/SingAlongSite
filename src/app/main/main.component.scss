@@ -1,0 +1,21 @@
+.download-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-top: 80px;
+
+    .title {
+        color: gray;
+    }
+
+    .buttons-container {
+        display: flex;
+        flex-direction: column;
+
+        .button img {
+            margin: 10px 0;
+            height: 60px
+        }
+    }
+}

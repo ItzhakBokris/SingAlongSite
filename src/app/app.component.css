@@ -11,30 +11,4 @@
     color: white;
     margin-left: 12px; }
 
-.download-container {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  padding-top: 80px; }
-  .download-container .title {
-    color: gray; }
-  .download-container .button {
-    display: flex;
-    align-items: center;
-    background-color: transparent;
-    border-radius: 10px;
-    outline: none;
-    padding: 10px 20px;
-    font-size: 16px;
-    color: #298eec;
-    cursor: pointer;
-    border: 1px solid #298eec;
-    text-decoration: initial; }
-    .download-container .button img {
-      margin-right: 10px;
-      height: 40px; }
-    .download-container .button:hover {
-      background-color: #efefef; }
-
 /*# sourceMappingURL=app.component.css.map */
